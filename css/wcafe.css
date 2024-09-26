@@ -1,0 +1,245 @@
+body{
+	background: linear-gradient(#221975, #211a6a, #2C2485);
+}
+
+
+	/* ----- World Café ----- */
+
+
+@media (min-width: 94px) and (max-width: 767px){
+	
+.wrap-aluno, .alunos{
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.aluno{
+  display: block;
+  text-align: center;
+  margin: 7% 3% 7% 0;
+  border-radius: 20px;
+	border: 3px solid #ff005a;
+	box-shadow: 6px 6px 4px 3px #ff005a;
+}
+
+li h1{
+	font-size: 80%;
+}
+li p{
+	font-size: 80%;
+}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1200px){
+
+	
+	.wrap-aluno, .alunos{
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 250px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.aluno {
+	text-align: center;
+  width: 40%;
+  display: inline-block;
+  margin: 0 3%;
+  border-radius: 20px;
+	border: 3px solid #ff005a;
+	box-shadow: 6px 6px 4px 3px #ff005a;
+}
+}
+
+@media (min-width: 1201px) and (max-width: 1367px){
+
+
+	.wrap-aluno, .alunos{
+		width: 100%;
+		margin: 0 auto;
+		margin-bottom: 200px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+.aluno {
+	text-align: center;
+  width: 40%;
+  height: auto;
+  display: inline-block;
+  margin: 0 3%;
+  border-radius: 20px;
+	border: 3px solid #ff005a;
+	box-shadow: 6px 6px 4px 3px #ff005a;
+}
+}
+
+@media (min-width: 1368px){
+
+	.wrap-aluno, .alunos{
+		width: 100%;
+		margin: 0 auto;
+		margin-bottom: 200px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+.aluno {
+	text-align: center;
+  width: 40%;
+  height: auto;
+  display: inline-block;
+  margin: 0 3%;
+  border-radius: 20px;
+	border: 3px solid #ff005a;
+	box-shadow: 6px 6px 4px 3px #ff005a;
+}
+
+
+}
+
+
+
+
+/*Landing page*/
+
+body{
+	position: relative;
+	background: linear-gradient(63.13deg, #1B1464 72.04%, #1F1770 51.05%);
+}
+
+
+.buttons-wcafe{
+	width: 50%;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+
+}
+
+.buttons-wcafe img:hover{
+	transform: translateY(-10px);
+}
+
+.buttons-wcafe img{
+	width: 100%;
+	border-radius: 20px;
+	height: 100%;
+	transition: .4s ease;
+	margin: 50px 0 250px;
+}
+
+/*============ SUB PAGINA ===========*/
+
+#page2{
+	border-top: 3px solid #fff;
+	 position: relative;
+	 height: 100%;
+	 display: none;
+}
+
+.container-page2{
+	width: 90%;
+	margin: 0 auto;
+	color: #fff;
+	height: 100%;
+}
+
+.date{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #ff005a;
+	min-width: 23%;
+	text-align: center;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.title-dia1{
+	padding: 70px 0 40px;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.subtitle-dia1{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	width: 70%;
+	margin: 0 auto;
+	padding: 0 0 50px;
+}
+
+ul img{
+	width: 90%;
+}
+
+.aluno h1{
+	width: 100%;
+}
+
+.aluno p{
+	width: 90%;
+	text-align: center;
+	margin: 20px auto;
+}
+
+.feedback{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+
+/*============ SUB PAGINA 2 ===========*/
+
+#page3{
+	 position: relative;
+	 height: 100%;
+	 display: none;
+	 border-top: 3px solid #fff;
+}
+
+.container-page3{
+	width: 90%;
+	margin: 0 auto;
+	color: #fff;
+	height: 100%;
+}
+
+.pictures{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.pictures img{
+	width: 25%;
+	min-width: 250px;
+	border: 2px solid #fff;
+	margin: 10px;
+}
+
+.subtitle-dia2{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	width: 70%;
+	margin: 0 auto;
+	padding: 50px 0;
+}	
