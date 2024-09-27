@@ -17,5 +17,14 @@ Este projeto foi desenvolvido com o objetivo de alertar sobre os riscos do consu
 
 ## Prints do site
 
+Página `home` do site
+
 ![t1](https://github.com/user-attachments/assets/217bf9ec-d167-4e22-b825-790a7a8a16d9)
+
+
 ![t1](https://github.com/user-attachments/assets/560b2fbe-1669-4310-b1b9-7d89e7e377f5)
+
+Página `game` do site
+
+![t1](https://github.com/user-attachments/assets/0de12f69-c91c-40fe-8ba5-8d088f7390f6)
+
