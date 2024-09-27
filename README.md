@@ -13,3 +13,8 @@ Este projeto foi desenvolvido com o objetivo de alertar sobre os riscos do consu
 - **Informações educativas** sobre o consumo excessivo de álcool
 - **Game interativo** com o objetivo de conscientizar os usuários de forma lúdica
 - **Design responsivo** para garantir acessibilidade em diversos dispositivos, como smartphones e tablets
+
+
+## Prints do site
+
+![t1](https://github.com/user-attachments/assets/217bf9ec-d167-4e22-b825-790a7a8a16d9)
