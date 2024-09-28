@@ -10,7 +10,6 @@ html{
     font-family: 'Montserrat', sans-serif;
     min-height: 100vh;
 }
-  
 
 /* Barra de navegação
 -----------------------------*/
@@ -69,6 +68,18 @@ aside{
 #body-2 {
   background: white;
   width: 100%;
+}
+
+.conteudo{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #000 4px solid;
+}
+
+.conteudoPlus{
+    margin-top: 15px;
 }
 
 @media (max-width: 480px) {
@@ -449,7 +460,6 @@ a:hover{
     -webkit-animation-direction: alternate;
             animation-direction: alternate; 
     float: left;
-    margin-bottom: 0px;
 }
 
 .main-aside{
@@ -519,19 +529,19 @@ a:hover{
 
 @-webkit-keyframes gifs-main{
     0%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
     }
     50%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;  
         -webkit-transform: rotateY(180deg);  
                 transform: rotateY(180deg);
     }
     51%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -539,7 +549,7 @@ a:hover{
                 transform: translateX(350px);
     }
     100%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -550,19 +560,19 @@ a:hover{
 
 @keyframes gifs-main{
     0%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
     }
     50%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;  
         -webkit-transform: rotateY(180deg);  
                 transform: rotateY(180deg);
     }
     51%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -570,7 +580,7 @@ a:hover{
                 transform: translateX(350px);
     }
     100%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -1071,19 +1081,19 @@ a:hover{
 
 @-webkit-keyframes gifs-main{
     0%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
     }
     50%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;  
         -webkit-transform: rotateY(180deg);  
                 transform: rotateY(180deg);
     }
     51%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -1091,7 +1101,7 @@ a:hover{
                 transform: translateX(800px);
     }
     100%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -1102,19 +1112,19 @@ a:hover{
 
 @keyframes gifs-main{
     0%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
     }
     50%{
-        background-image: url(../images/Alex.gif);
+        background-image: url(../img/home/mascote1.gif);
         background-size: 100%;  
         -webkit-transform: rotateY(180deg);  
                 transform: rotateY(180deg);
     }
     51%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
@@ -1122,7 +1132,7 @@ a:hover{
                 transform: translateX(800px);
     }
     100%{
-        background-image: url(../images/Colle.gif);
+        background-image: url(../img/home/mascote2.gif);
         background-size: 100%;
         -webkit-transform: rotateY(180deg);
                 transform: rotateY(180deg);
