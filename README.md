@@ -4,6 +4,8 @@ Site hospedado [nesse endereço](https://joaolandsmann.github.io/roleSeguro/).
 
 Este projeto foi desenvolvido com o objetivo de alertar sobre os riscos do consumo excessivo de álcool, promovendo conscientização entre os jovens. Trata-se de uma iniciativa em parceria entre os alunos do curso de Desenvolvimento Web da Rede Calábria e a Coca-Cola, oferecendo informações e recursos para incentivar escolhas mais seguras.
 
+Colaboração especial: [Alexandre Borin](https://github.com/ABorin0723)
+
 ## Tecnologias utilizadas:
 
 `HTML5` | `CSS3` | `Boostrap` | `JavaScript`
