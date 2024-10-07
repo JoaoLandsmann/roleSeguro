@@ -33,4 +33,4 @@ Página `sobre` do site
 
 ![image](https://github.com/user-attachments/assets/6ac0b565-070d-4a2b-9899-d931c7651a79)
 
-#### Colaboração especial: [Alexandre Borin](https://github.com/ABorin0723)
+#### Colaboradores: [Alexandre Borin](https://github.com/ABorin0723)
